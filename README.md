@@ -52,9 +52,6 @@ To use the pipeline, follow these steps:
 
 6. To evaluate the model on new off-target sites, modify `test_prediction.py` and execute it using the trained model and the new off-target site features.
 
-### Disclaimer
-
-This implementation is for educational purposes only and should not be used for actual gene therapy applications without appropriate validation and regulatory approval.
 
 ### References
 
