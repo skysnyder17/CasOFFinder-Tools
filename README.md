@@ -1,4 +1,3 @@
-Sure, here's a possible `README` file that summarizes the implementation of the CRISPR off-target prediction for gene therapy using CasOFFinder and machine learning techniques:
 
 ## CRISPR Off-Target Prediction for Gene Therapy
 
